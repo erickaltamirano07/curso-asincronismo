@@ -32,3 +32,7 @@ fetchData(`${API}/products`, function (error1, data1) {
     );
   });
 });
+/*  "scripts": {
+    "callback": "node src/callback/challenge.js" 
+  }*/
+// npm run callback
